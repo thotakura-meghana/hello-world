@@ -1,2 +1,5 @@
-# hello-world
-First Repository
+- 👋 Hi, I’m @thotakura-meghana
+- 👀 I’m interested in Data
+- 🌱 I’m currently learning GCP Data Engineering
+- 💞️ I’m not looking to collaborate on 
+- 📫 How to reach me :u cant :)
